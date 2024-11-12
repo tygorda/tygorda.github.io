@@ -16,9 +16,8 @@ pages:  # a predefined job that builds your pages and saves them to the specifie
   artifacts:
     paths:
       - public
-  rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
-  environment: productiondefault:
+  only: 
+    - master
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
