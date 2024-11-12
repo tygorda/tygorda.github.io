@@ -10,28 +10,10 @@ test:  # builds and tests your site
   rules:
     - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
 
-pages:  # a predefined job that builds your pages and saves them to the specified path.
+deploy-pages:  # a user-defined job that builds your pages and saves them to the specified path.
   script:
     - hugo
-  artifacts:
-    paths:
-      - public
-  rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
-  environment: productiondefault
-
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
-
-test:  # builds and tests your site
-  script:
-    - hugo
-  rules:
-    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
-
-pages:  # a predefined job that builds your pages and saves them to the specified path.
-  script:
-    - hugo
+  pages: true  # specifies that this is a Pages job
   artifacts:
     paths:
       - public
