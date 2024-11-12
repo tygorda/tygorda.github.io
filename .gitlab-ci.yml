@@ -1,6 +1,5 @@
 default:
   image: "registry.gitlab.com/pages/hugo:latest"
-  THEME_URL: "github.com/HugoBlox/hugo-blox-builder/starters/academic-cv"
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
