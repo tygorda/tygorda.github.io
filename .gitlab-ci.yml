@@ -19,7 +19,6 @@ pages:  # a predefined job that builds your pages and saves them to the specifie
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   environment: productiondefault:
-  image: "registry.gitlab.com/pages/hugo:latest"
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
