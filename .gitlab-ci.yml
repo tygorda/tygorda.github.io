@@ -31,6 +31,7 @@ pages:
     # Install Node.js dependencies
     - "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
     # Build
+    - hugo mod init
     - hugo --gc --minify
     # Compress
     - find public -type f -regex '.*\.\(css\|html\|js\|txt\|xml\)$' -exec gzip -f -k {} \;
