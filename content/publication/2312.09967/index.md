@@ -14,7 +14,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["Proceedings"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "EPJ Web Conf. 296 (2024) 01010"
 publication_short: ""
 
 abstract: Does deconfined cold quark matter occur in nature? This is currently one of the fundamental open questions in nuclear astrophysics. In these proceedings, I review the current state-of-the-art techniques to address this question in a model-agnostic manner, by synthesizing inputs from astrophysical observations of neutron stars and their binary mergers, and first-principles calculations within nuclear and particle theory. I highlight recent improvements in perturbative calculations in asymptotically dense cold quark matter, as well as compelling evidence for a conformalizing transition within the cores of massive neutron stars.

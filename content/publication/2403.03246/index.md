@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "(Accepted to Nat. Commun.)"
 publication_short: ""
 
 abstract: Multimessenger signals from binary neutron star (BNS) mergers are promising tools to infer the largely unknown properties of nuclear matter at densities that are presently inaccessible to laboratory experiments. The gravitational waves (GWs) emitted by BNS merger remnants, in particular, have the potential of setting tight constraints on the neutron-star equation of state (EOS) that would complement those coming from the late inspiral, direct mass-radius measurements, or ab-initio dense-matter calculations. To explore this possibility, we perform a representative series of general-relativistic simulations of BNS systems with EOSs carefully constructed so as to cover comprehensively the high-density regime of the EOS space. From these simulations, we identify a novel and tight correlation between the ratio of the energy and angular-momentum losses in the late-time portion of the post-merger signal, i.e., the "long ringdown", and the properties of the EOS at the highest pressures and densities in neutron-star cores. When applying this correlation to post-merger GW signals, we find a significant reduction of the EOS uncertainty at densities several times the nuclear saturation density, where no direct constraints are currently available. Hence, the long ringdown has the potential of providing new and stringent constraints on the state of matter in neutron stars in general and, in particular, in their cores.

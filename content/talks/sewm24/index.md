@@ -1,10 +1,9 @@
 ---
 title: Pressure and speed of sound in (two-flavor) color-superconducting quark matter at next-to-leading order
 
-event: Strong and Electroweak matter 2024
+publication: Strong and Electroweak matter 2024 (Frankfurt, Germany)
 event_url: https://indico.physik.uni-bielefeld.de/event/100/
 
-location: Frankfurt, Germany
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford

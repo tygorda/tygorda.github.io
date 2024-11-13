@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Phys.Rev.D 109 (2024) 9, 094030"
 publication_short: ""
 
 abstract: We explore the consequences of imposing robust thermodynamic constraints arising from perturbative quantum chromodynamics (QCD) when inferring the dense-matter equation-of-state (EOS). We find that the termination density, up to which the EOS modeling is performed in an inference setup, strongly affects the constraining power of the QCD input. This sensitivity in the constraining power arises from EOSs that have a specific form, with drastic softening immediately above the termination density followed by a strong stiffening. We also perform explicit modeling of the EOS down from perturbative-QCD densities to construct a new QCD likelihood function that incorporates additional perturbative-QCD calculations of the sound speed and is insensitive to the termination density, which we make publicly available.

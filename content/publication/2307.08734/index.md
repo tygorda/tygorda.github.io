@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Phys.Rev.Lett. 131 (2023) 18, 181902"
 publication_short: ""
 
 abstract: Accurately understanding the equation of state (EOS) of high-density, zero-temperature quark matter plays an essential role in constraining the behavior of dense strongly interacting matter inside the cores of neutron stars. In this Letter, we study the weak-coupling expansion of the EOS of cold quark matter and derive the complete, gauge-invariant contributions from the long-wavelength, dynamically screened gluonic sector at next-to-next-to-next-to-leading order (N3LO) in the strong coupling constant $\alpha_s$​. This elevates the EOS result to the $O(\alpha_s^3 \,\mathrm{ln}\, \alpha_s​)$ level, leaving only one unknown constant from the unscreened sector at N3LO, and places it on par with its high-temperature counterpart from 2003.

@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Phys.Rev.D 110 (2024) 1, 014034"
 publication_short: ""
 
 abstract: Deconfined quark matter at asymptotically high densities is weakly coupled, due to the asymptotic freedom of quantum chromodynamics. In this weak-coupling regime, bulk thermodynamic properties of quark matter, assuming a trivial ground state, are currently known to partial next-to-next-to-next-to-leading order. However, the ground state at high densities is expected to be a color superconductor, in which the excitation spectrum of (at least some) quarks exhibit a gap with a nonperturbative dependence on the strong coupling. In this work, we calculate the thermodynamic properties of color-superconducting quark matter at high densities and zero temperature at next-to-leading order (NLO) in the coupling in the presence of a finite gap. We work in the limit of two massless quark flavors, which corresponds to deconfined symmetric nuclear matter, and further assume that the gap is small compared to the quark chemical potential. In these limits, we find that the NLO corrections to the pressure and speed of sound are comparable in size to the leading-order effects of the gap, and further increase both quantities above their values for nonsuperconducting quark matter. We also provide a parametrization of the NLO speed of sound to guide phenomenology in the high-density region, and we furthermore comment on whether our findings should be expected to extend to the case of three-flavor quark matter of relevance to neutron stars.

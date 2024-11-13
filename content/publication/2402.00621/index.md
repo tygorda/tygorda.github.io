@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Phys.Rev.Lett. 133 (2024) 7, 7"
 publication_short: ""
 
 abstract: Modern hydrodynamic simulations of core-collapse supernovae and neutron-star mergers require knowledge not only of the equilibrium properties of strongly interacting matter, but also of the system’s response to perturbations, encoded in various transport coefficients. Using perturbative and holographic tools, we derive here an improved weak-coupling and a new strong-coupling result for the most important transport coefficient of unpaired quark matter, its bulk viscosity. These results are combined in a simple analytic pocket formula for the quantity that is rooted in perturbative quantum chromodynamics at high densities but takes into account nonperturbative holographic input at neutron-star densities, where the system is strongly coupled. This expression can be used in the modeling of unpaired quark matter at astrophysically relevant temperatures and densities.

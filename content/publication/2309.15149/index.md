@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "JHEP 12 (2023) 133"
 publication_short: ""
 
 abstract: The equation of state of QCD matter at high densities is relevant for neutron star structure and for neutron star mergers and has been a focus of recent work.  We show how lattice QCD simulations, free of sign problems, can provide an *upper bound* on the pressure as a function of quark chemical potentials.  We show that at large chemical potentials this bound should become quite sharp; the difference between the upper bound on the pressure <math>$P_\mathrm{PQ}$</math> and the true pressure <math>$P$</math> is of order <math>$P_\mathrm{PQ}-P = O(\alpha_s^3 P)$</math>.  The corrections arise from a single Feynman diagram; its calculation would render remaining corrections <math>$O(\alpha_s^4 P)$</math>.

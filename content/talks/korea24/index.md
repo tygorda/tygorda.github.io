@@ -1,7 +1,7 @@
 ---
-title: Constraining strongly interacting matter at the highest densities with perturbative QCD
+title: "Constraining strongly interacting matter at the highest densities with perturbative QCD"
 
-event: APCTP-Triumf joint workshop
+publication: APCTP-Triumf joint workshop (Busan, Korea)
 event_url: https://ynuclear-indico.yonsei.ac.kr/event/5/overview
 private: true
 
