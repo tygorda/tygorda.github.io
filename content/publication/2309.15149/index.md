@@ -4,7 +4,7 @@ authors:
 - Guy D. Moore
 - admin
 date: "2023-09-26T00:00:00Z"
-doi: ""
+doi: "10.1007/JHEP12(2023)133"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -33,9 +33,6 @@ tags:
 
 featured: true
 
-links:
-- name: "DOI: 10.1007/JHEP12(2023)133"
-  url: https://doi.org/10.1007/JHEP12(2023)133
 url_pdf: https://arxiv.org/pdf/2309.15149
 #url_code: '#'
 #url_dataset: '#'

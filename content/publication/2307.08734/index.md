@@ -6,7 +6,7 @@ authors:
 - Saga Säppi
 - Kaapo Seppänen
 date: "2023-07-17T00:00:00Z"
-doi: ""
+doi: "10.1103/PhysRevLett.131.181902"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -36,8 +36,6 @@ tags:
 featured: true
 
 links:
-- name: "DOI: 10.1103/PhysRevLett.131.181902"
-  url: https://doi.org/10.1103/PhysRevLett.131.181902
 url_pdf: https://arxiv.org/pdf/2307.08734
 #url_code: '#'
 #url_dataset: '#'

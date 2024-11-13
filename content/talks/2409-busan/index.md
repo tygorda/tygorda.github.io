@@ -1,9 +1,11 @@
 ---
-title: Pressure and speed of sound in (two-flavor) color-superconducting quark matter at next-to-leading order
+title: "Constraining strongly interacting matter at the highest densities with perturbative QCD"
 
-publication: Strong and Electroweak matter 2024 (Frankfurt, Germany)
-event_url: https://indico.physik.uni-bielefeld.de/event/100/
+publication: APCTP-Triumf joint workshop (Busan, Korea) -- *Invited Plenary*
+event_url: https://ynuclear-indico.yonsei.ac.kr/event/5/overview
+private: true
 
+location: Busan, South Korea
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -11,13 +13,12 @@ event_url: https://indico.physik.uni-bielefeld.de/event/100/
 #  postcode: '94305'
 #  country: United States
 
-#summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Talk about my work on quark matter in neutron stars
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-08-26T13:00:00Z'
-date_end: '2024-08-01T15:00:00Z'
+date: '2024-09-23T13:00:00Z'
+date_end: '2024-09-27T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -26,10 +27,10 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - admin
 
-tags: []
+#tags: [neutron stars, equation of state, quark matter]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -42,7 +43,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
 #url_pdf: ''
-url_slides: https://indico.physik.uni-bielefeld.de/event/100/contributions/244/attachments/276/449/gorda.pdf
+#url_slides: 
 #url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
@@ -57,6 +58,6 @@ url_slides: https://indico.physik.uni-bielefeld.de/event/100/contributions/244/a
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
-#  - example
+#publications:
+#  - 2312.14127
 ---

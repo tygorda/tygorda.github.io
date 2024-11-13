@@ -8,7 +8,7 @@ authors:
 - Jérôme Margueron
 - Ingo Tews
 date: "2023-12-21T00:00:00Z"
-doi: ""
+doi: "10.1103/PhysRevD.109.094030"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -37,8 +37,6 @@ tags:
 featured: true
 
 links:
-- name: "DOI: 10.1103/PhysRevD.109.094030 "
-  url: https://doi.org/10.1103/PhysRevD.109.094030
 - name: "Public Python script"
   url: https://doi.org/10.5281/zenodo.10592568
 url_pdf: https://arxiv.org/pdf/2312.14127

@@ -34,6 +34,7 @@ sections:
     id: papers
     content:
       title: Recent Publications
+      count: 6
       filters:
         folders:
           - publication
@@ -54,10 +55,12 @@ sections:
   - block: collection
     id: talks
     content:
-      title: List of Talks
+      count: 7
+      title: Recent or Notable Talks
       filters:
         folders:
           - talks
+        featured_only: true
     design:
       view: citation
       columns: 1

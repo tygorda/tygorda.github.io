@@ -5,7 +5,7 @@ authors:
 - admin
 - Jens Braun
 date: "2024-03-26T00:00:00Z"
-doi: ""
+doi: "10.1103/PhysRevD.110.014034"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,9 +30,6 @@ tags:
 
 featured: true
 
-links:
-- name: "DOI: 10.1103/PhysRevD.110.014034"
-  url: https://doi.org/10.1103/PhysRevD.110.014034
 url_pdf: https://arxiv.org/pdf/2403.18010
 #url_code: '#'
 #url_dataset: '#'

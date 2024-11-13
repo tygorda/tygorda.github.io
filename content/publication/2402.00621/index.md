@@ -11,7 +11,7 @@ authors:
 - Saga Säppi
 - Aleksi Vuorinen
 date: "2024-02-01T00:00:00Z"
-doi: ""
+doi: "10.1103/PhysRevLett.133.071901"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -38,9 +38,6 @@ tags:
 
 featured: true
 
-links:
-- name: "DOI: 10.1103/PhysRevLett.133.071901 "
-  url: https://doi.org/10.1103/PhysRevLett.133.071901
 url_pdf: https://arxiv.org/pdf/2402.00621
 #url_code: '#'
 #url_dataset: '#'

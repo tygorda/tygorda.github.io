@@ -1,11 +1,11 @@
 ---
-title: "Constraining strongly interacting matter at the highest densities with perturbative QCD"
+title: "Quark matter in the cores of massive neutron stars"
 
-publication: APCTP-Triumf joint workshop (Busan, Korea)
-event_url: https://ynuclear-indico.yonsei.ac.kr/event/5/overview
+publication: New aspects of nuclear physics and nuclear astrophysics (Seoul, Korea) -- *Invited Plenary*
+event_url:
 private: true
 
-location: Busan, South Korea
+location: Seuol, South Korea
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -14,12 +14,12 @@ location: Busan, South Korea
 #  country: United States
 
 #summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-summary: Talk about my work on color superconductivity at NLO
+summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-23T13:00:00Z'
-date_end: '2024-09-27T15:00:00Z'
+date: '2024-09-10T13:00:00Z'
+date_end: '2024-09-20T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -28,7 +28,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - admin
 
-tags: [pQCD,neutron stars, equation of state]
+#tags: [pQCD,neutron stars, equation of state]
 
 # Is this a featured talk? (true/false)
 featured: false

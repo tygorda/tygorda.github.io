@@ -1,15 +1,24 @@
 ---
-title: List of Talks
-cms_exclude: true
-#url: talk
+# Leave the homepage title empty to use the site title
+title: ""
+date: 2024-11-11
+type: landing
 
-# View
-view: compact
-#design:
-#  date_format: 'Jan 2006'
+design:
+  # Default section spacing
+  spacing: "5em"
 
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: ''
-  filename: ''
+sections:
+  - block: collection
+    id: talks
+    content:
+      count: 0
+      title: Talks (partial list)
+      filters:
+        folders:
+          - talks
+        featured_only: false
+    design:
+      view: citation
+      columns: 1
 ---

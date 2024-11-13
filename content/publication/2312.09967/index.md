@@ -3,7 +3,7 @@ title: "Quark matter and nuclear astrophysics: Recent developments"
 authors:
 - admin
 date: "2023-12-15T00:00:00Z"
-doi: ""
+doi: "10.1051/epjconf/202429601010"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,9 +31,6 @@ tags:
 
 featured: true
 
-links:
-- name: "DOI: 10.1051/epjconf/202429601010"
-  url: https://doi.org/10.1051/epjconf/202429601010
 #- name: "Public Python script"
 #  url: https://doi.org/10.5281/zenodo.10592568
 url_pdf: https://arxiv.org/pdf/2312.09967
