@@ -67,7 +67,7 @@ work:
     company_url: ''
     company_logo: ''
     location: Germany
-    date_start: 2023-09-01
+    date_start: 2023-11-15
     date_end: ''
     summary: |2-
       Responsibilities include:
