@@ -1,5 +1,5 @@
 ---
-title: "Listening to the long ringdown"
+title: "Listening to the long ringdown: A novel way to pinpoint the equation of state in neutron-star cores"
 publication: "CRC‑TR 211 (Strong‑interaction matter under extreme conditions) Meeting -- *Invited Plenary*" 
 event_url: 
 authors: 

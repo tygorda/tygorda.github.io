@@ -1,5 +1,5 @@
 ---
-title: "Listening to the long ringdown"
+title: "Listening to the long ringdown: A novel way to pinpoint the equation of state in neutron-star cores"
 publication: "INT‑24‑89W: EOS Measurements with Next‑Generation Gravitational‑Wave Detectors (Seattle, USA) -- *Plenary*" 
 event_url: https://www.int.washington.edu/programs-and-workshops/24-89w
 authors: 
