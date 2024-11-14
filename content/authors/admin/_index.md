@@ -143,8 +143,8 @@ skills:
   - name: Languages
     items:
       - name: English (native)
-      - name: French (approx. B1)
       - name: German (A2)
+      - name: French (approx. B1)
 
 # Awards.
 #   Add/remove as many awards below as you like.
