@@ -17,5 +17,5 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-url_slides: ""
+url_slides: https://indico.cern.ch/event/1139644/contributions/5343991/attachments/2707724/4701104/Tyler_Gorda-Quark_Matter_2023.pdf
 ---

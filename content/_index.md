@@ -55,7 +55,7 @@ sections:
   - block: collection
     id: talks
     content:
-      count: 7
+      count: 9
       title: Recent or Notable Talks
       filters:
         folders:

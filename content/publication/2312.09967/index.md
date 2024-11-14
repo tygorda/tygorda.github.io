@@ -45,7 +45,7 @@ url_source: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'pQCD contributions at N3LO'
+  caption: 'pQCD contributions at N3LO (credit Saga Säppi)'
   focal_point: ""
   preview_only: false
 

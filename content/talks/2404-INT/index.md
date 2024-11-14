@@ -14,8 +14,9 @@ publishDate: '2017-01-01T00:00:00Z'
 
 tags: []
 
+url_video: https://archive.int.washington.edu/talks/S@INTvideos/Gorda_Apr_1_2024.mp4
+url_slides: https://www.int.washington.edu/sites/default/files/seminar_downloads/Gorda_Apr_1_2024.pdf
+
 # Is this a featured talk? (true/false)
 featured: false
-
-url_slides: ""
 ---
