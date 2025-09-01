@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher, Relativistic Astrophysics group
+role: Assistant Professor, Nuclear Theory Group
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-- name: Goethe University Frankfurt am Main
+- name: The Ohio State University
   url: ""
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:gorda@itp.uni-frankfurt.de'
+    url: 'mailto:gorda.1@osu.edu'
     label: E-mail Me
   - icon: academicons/arxiv
     url: https://arxiv.org/search/hep-ph?searchtype=author&query=Gorda,+T
@@ -62,13 +62,21 @@ education:
     date_start: 2007-08-01
 
 work:
+  - position: 'Assistant Professor'
+    company_name: 'The Ohio State University'
+    company_url: ''
+    company_logo: ''
+    location: Ohio, USA
+    date_start: 2025-08-15
+    date_end: ''
+    summary: |2-
   - position: 'Postdoctoral Researcher'
     company_name: 'ITP Goethe University Frankfurt'
     company_url: ''
     company_logo: ''
     location: Germany
     date_start: 2023-11-15
-    date_end: ''
+    date_end: '2025-07-31'
     summary: |2-
       Responsibilities include:
       - AstroCoffee seminar organizer
