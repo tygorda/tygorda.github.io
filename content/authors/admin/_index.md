@@ -170,7 +170,7 @@ skills:
 
 ## About Me
 
-I am a postdoctoral researcher in the relativistic astrophysics group at Goethe University Frankfurt. I am broadly interested in the behavior of strongly interacting matter at high densities and exploring this region of the phase diagram of quantum chromodynamics (QCD), the theory of the strong nuclear force.
+I am an assistant professor in the Nuclear Theory group and member of the Center for Cosmology and AstroParticle Physics (CCAPP)  at The Ohio State University. I am broadly interested in the behavior of strongly interacting matter at high densities and exploring this region of the phase diagram of quantum chromodynamics (QCD), the theory of the strong nuclear force.
 
 Primarily I study the equation of state of neutron-star matter, and specifically I have worked to synthesize inputs from astrophysics, nuclear theory, and particle theory to bound its behavior within the cores of the most massive neutron stars, with the aim of constraining the phase of matter reached in the cores of these objects. My research is interdisciplinary and consists of analytic calculations using perturbative QCD itself as well as numerical and statistical techniques to perform Bayesian equation-of-state inference.
 
