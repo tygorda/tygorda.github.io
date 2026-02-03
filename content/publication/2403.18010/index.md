@@ -13,7 +13,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Phys.Rev.D 110 (2024) 1, 014034"
@@ -62,6 +62,6 @@ projects:
 #slides: example
 ---
 
-We calculate the next-to-leading order corrections to the pertubative QCD pressure arising from the color superconducting gap at large net baryon density. We find a quite sizeable correction!
+We calculate the next-to-leading order corrections to the pertubative QCD pressure arising from the color superconducting gap at large net baryon density in two-flavor quark matter. We find a quite sizeable correction!
 
 
