@@ -38,7 +38,7 @@ featured: true
 
 links:
 - name: "Public Python script"
-  url: https://doi.org/10.5281/zenodo.10592568
+  url: https://doi.org/10.5281/zenodo.15407795
 url_pdf: https://arxiv.org/pdf/2312.14127
 #url_code: '#'
 #url_dataset: '#'
