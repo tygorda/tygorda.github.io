@@ -38,7 +38,7 @@ featured: true
 
 links:
 - name: "Public Python script"
-  url: https://doi.org/10.5281/zenodo.10592568
+  url: https://doi.org/10.5281/zenodo.15407795
 url_pdf: https://arxiv.org/pdf/2312.14127
 #url_code: '#'
 #url_dataset: '#'
@@ -71,6 +71,6 @@ projects:
 #slides: example
 ---
 
-We show that equations of state that are extremely stiff within the cores of maximally massive neutron stars are incompatible with the behavior of the speed of sound at high densities 25-40$n_\mathrm{sat}$. We also develop a method to marginalize over possible extensions of the neutron-star-matter equation of state, which we have made available as a public [python script](https://doi.org/10.5281/zenodo.10592568).
+We show that equations of state that are extremely stiff within the cores of maximally massive neutron stars are incompatible with the behavior of the speed of sound at high densities 25-40$n_\mathrm{sat}$. We also develop a method to marginalize over possible extensions of the neutron-star-matter equation of state, which we have made available as a public [python script](https://doi.org/10.5281/zenodo.15407795).
 
 
