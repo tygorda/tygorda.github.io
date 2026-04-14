@@ -5,7 +5,7 @@ publication: New aspects of nuclear physics and nuclear astrophysics (Seoul, Kor
 event_url:
 private: true
 
-location: Seuol, South Korea
+location: Seoul, South Korea
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
