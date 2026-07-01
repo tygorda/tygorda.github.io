@@ -57,7 +57,7 @@ education:
     date_end: 2014-12-15
     date_start: 2011-08-01
   - area: BSc Physics
-    institution: Rutgers, the state University of New Jersey
+    institution: Rutgers, The state University of New Jersey
     date_end: 2011-05-01
     date_start: 2007-08-01
 
